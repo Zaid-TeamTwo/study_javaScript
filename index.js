@@ -10,10 +10,10 @@
 //gunakan naming yang merepresent
 //kalau tidak akan membingungkan di masa depan
 
-// convention naming case JS adalah 
+// convention naming case JS adalah camel Case
 
 //data type number
-var number = 1;
+let number = 1;
 
 //data type string
-var string = "test"
+let string = "test"
